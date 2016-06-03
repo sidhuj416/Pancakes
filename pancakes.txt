@@ -3,5 +3,6 @@ Egg
 Baking Soda
 Milk
 
-Topping 
+Toppings
+Strawberry
 Ice Cream 
